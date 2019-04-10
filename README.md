@@ -1,8 +1,6 @@
 # Proving-Ground-RED-team-tools
 A curated list of the proving grounds RED Team Tools, with descriptions of their tool sets, sources, cost, use cases, examples, and more
 
-[link](https://github.com/b3cause-42/Proving-Ground-RED-team-tools/blob/master/linkedFile.md)
-
 ## Tool Categories
 - Information Gathering
 - Vulnerability Analysis
